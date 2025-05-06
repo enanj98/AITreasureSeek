@@ -1,0 +1,5 @@
+package clientenums;
+
+public enum FortState {
+ENEMYFORTPRESENT,MYFORTPRESENT,NOORUNKNOWNFORTSTATE
+}

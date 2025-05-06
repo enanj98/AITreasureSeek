@@ -1,0 +1,5 @@
+package clientenums;
+
+public enum PlayerPositionState {
+BOTHPLAYERPOSITION,ENEMYPLAYERPOSITION,MYPOSITION,NOPLAYERPRESENT
+}
